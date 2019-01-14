@@ -12,7 +12,7 @@
       "password": "1",
       "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
       "access": "super_admin",
-      "token":"super_admin"
+      "token":"['super_admin']"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
       "password": "1",
       "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
       "access": "admin",
-      "token":"admin"
+      "token":"['admin']"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
       "password": "1",
       "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
       "access": "normal_user",
-      "token":"normal_user"
+      "token":"['normal_user']"
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
       "password": "1",
       "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
       "access": "undefined",
-      "token": "undefined"
+      "token": "['undefined']"
     }
   ]
 }
