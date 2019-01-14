@@ -9,9 +9,9 @@
       "registerdate": "2018-08-31 12:00:00",
       "lastusedate": "sss",
       "userstatus": 1,
-      "password": "1"
-	  "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
-	  "access": "['super_admin']"
+      "password": "1",
+      "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
+      "access": "['super_admin']"
     },
     {
       "id": 2,
@@ -22,9 +22,9 @@
       "registerdate": "2018-08-31 12:00:00",
       "lastusedate": "sss",
       "userstatus": 1,
-      "password": "1"
-	  "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
-	  "access": "['admin']"
+      "password": "1",
+      "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
+      "access": "['admin']"
     },
     {
       "id": 3,
@@ -35,9 +35,9 @@
       "registerdate": "2018-08-31 12:00:00",
       "lastusedate": "sss",
       "userstatus": 1,
-      "password": "1"
-	  "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
-	  "access": "['super_admin']"
+      "password": "1",
+      "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
+      "access": "['super_admin']"
     },
   ]
 }
