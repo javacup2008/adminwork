@@ -1,216 +1,43 @@
 {
-  "course": [
-    {
-      "id": 1000,
-      "course_name": "马连白米且",
-      "autor": "袁明",
-      "college": "金并即总变史",
-      "category_Id": 2
-    },
-    {
-      "id": 1001,
-      "course_name": "公拉农题队始果动",
-      "autor": "高丽",
-      "college": "先了队叫及便",
-      "category_Id": 2
-    }
-  ],
   "user": [
     {
       "id": 1,
-      "username": "user1",
-      "name": "用户一",
+      "username": "super_admin",
+      "name": "超级用户",
       "phone": "13611114444",
       "currentbalance": 0,
       "registerdate": "2018-08-31 12:00:00",
       "lastusedate": "sss",
       "userstatus": 1,
-      "password": "12345678"
+      "password": "1"
+	  "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
+	  "access": "['super_admin']"
     },
     {
-      "id": 1,
-      "username": "user2",
-      "name": "用户二",
+      "id": 2,
+      "username": "admin",
+      "name": "管理员",
       "phone": "13611114444",
       "currentbalance": 0,
-      "registerdate": "2018-07-31 12:00:00",
-      "lastusedate": "sdfa",
+      "registerdate": "2018-08-31 12:00:00",
+      "lastusedate": "sss",
       "userstatus": 1,
-      "password": "12345678"
-    }
-  ],
-  "evaluateInfo": [{
-    "tableContent": [{
-      "setName":"设备一",
-      "20181119": "10W",
-      "20181120": "10W",
-      "20181121": "10W",
-      "20181122": "40W",
-      "20181123": "60W",
-      "20181124": "10W",
-      "20181125": "170W"
-    }, {
-      "setName":"设备二",
-      "20181119": "10W",
-      "20181120": "10W",
-      "20181121": "10W",
-      "20181122": "40W",
-      "20181123": "60W",
-      "20181124": "10W",
-      "20181125": "170W"
-    }, {
-      "setName":"设备三",
-      "20181119": "10W",
-      "20181120": "10W",
-      "20181121": "10W",
-      "20181122": "40W",
-      "20181123": "60W",
-      "20181124": "10W",
-      "20181125": "170W"
-    }],
-    "tableCol": [{
-      "dataItem": "20181119",
-      "dataName": "2018-11-19"
-    }, {
-      "dataItem": "20181120",
-      "dataName": "2018-11-20"
-    }, {
-      "dataItem": "20181121",
-      "dataName": "2018-11-21"
-    }, {
-      "dataItem": "20181122",
-      "dataName": "2018-11-22"
-    }, {
-      "dataItem": "20181123",
-      "dataName": "2018-11-23"
-    }, {
-      "dataItem": "20181124",
-      "dataName": "2018-11-24"
-    }, {
-      "dataItem": "20181125",
-      "dataName": "2018-11-25"
-    }],
-    "groupName": [{
-      "value": "1",
-      "label": "低压系统(一)总开关"
-    }, {
-      "value": "2",
-      "label": "低压系统(二)总开关"
-    }, {
-      "value": "3",
-      "label": "低压系统(三)总开关"
-    }, {
-      "value": "4",
-      "label": "保全"
-    }, {
-      "value": "5",
-      "label": "生产"
-    }, {
-      "value": "6",
-      "label": "品保"
-    }, {
-      "value": "7",
-      "label": "总务"
-    }, {
-      "value": "8",
-      "label": "成型550T"
-    }],
-    "unitName": [{
-      "value": "1",
-      "label": "第一"
-    }, {
-      "value": "2",
-      "label": "第二"
-    }, {
-      "value": "3",
-      "label": "第三"
-    }]
-  }],
-  "evaluateInfo1": [{
-    "tableContent": [{
-      "setName":"设备四",
-      "20181119": "10W",
-      "20181120": "10W",
-      "20181121": "10W",
-      "20181122": "40W",
-      "20181123": "60W",
-      "20181124": "10W",
-      "20181125": "170W"
-    }, {
-      "setName":"设备五",
-      "20181119": "10W",
-      "20181120": "10W",
-      "20181121": "10W",
-      "20181122": "40W",
-      "20181123": "60W",
-      "20181124": "10W",
-      "20181125": "170W"
-    }, {
-      "setName":"设备六",
-      "20181119": "10W",
-      "20181120": "10W",
-      "20181121": "10W",
-      "20181122": "40W",
-      "20181123": "60W",
-      "20181124": "10W",
-      "20181125": "170W"
-    }],
-    "tableCol": [{
-      "dataItem": "20181119",
-      "dataName": "2018-11-19"
-    }, {
-      "dataItem": "20181120",
-      "dataName": "2018-11-20"
-    }, {
-      "dataItem": "20181121",
-      "dataName": "2018-11-21"
-    }, {
-      "dataItem": "20181122",
-      "dataName": "2018-11-22"
-    }, {
-      "dataItem": "20181123",
-      "dataName": "2018-11-23"
-    }, {
-      "dataItem": "20181124",
-      "dataName": "2018-11-24"
-    }, {
-      "dataItem": "20181125",
-      "dataName": "2018-11-25"
-    }],
-    "groupName": [{
-      "value": "1",
-      "label": "低压系统(一)总开关"
-    }, {
-      "value": "2",
-      "label": "低压系统(二)总开关"
-    }, {
-      "value": "3",
-      "label": "低压系统(三)总开关"
-    }, {
-      "value": "4",
-      "label": "保全"
-    }, {
-      "value": "5",
-      "label": "生产"
-    }, {
-      "value": "6",
-      "label": "品保"
-    }, {
-      "value": "7",
-      "label": "总务"
-    }, {
-      "value": "8",
-      "label": "成型550T"
-    }],
-    "unitName": [{
-      "value": "1",
-      "label": "第一"
-    }, {
-      "value": "2",
-      "label": "第二"
-    }, {
-      "value": "3",
-      "label": "第三"
-    }]
-	}]
+      "password": "1"
+	  "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
+	  "access": "['admin']"
+    },
+    {
+      "id": 3,
+      "username": "user1",
+      "name": "操作员",
+      "phone": "13611114444",
+      "currentbalance": 0,
+      "registerdate": "2018-08-31 12:00:00",
+      "lastusedate": "sss",
+      "userstatus": 1,
+      "password": "1"
+	  "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png",
+	  "access": "['super_admin']"
+    },
+  ]
 }
