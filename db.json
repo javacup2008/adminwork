@@ -60,37 +60,37 @@
   inforCardData: [{
       title: "总合同数",
       icon: "md-person-add",
-      count: "@integer(60, 100)",
+      count: "23",
       color: "#2d8cf0"
     },
     {
       title: "新增合同",
       icon: "md-locate",
-      count: "@integer(10, 60)",
+      count: "44",
       color: "#19be6b"
     },
     {
       title: "新增问答",
       icon: "md-help-circle",
-      count: "@integer(10, 60)",
+      count: "65",
       color: "#ff9900"
     },
     {
       title: "分享统计",
       icon: "md-share",
-      count: "@integer(10, 60)",
+      count: "233",
       color: "#ed3f14"
     },
     {
       title: "新增互动",
       icon: "md-chatbubbles",
-      count: "@integer(10, 20)",
+      count: "111",
       color: "#E46CBB"
     },
     {
       title: "新增页面",
       icon: "md-map",
-      count: "@integer(10, 60)",
+      count: "234",
       color: "#9A66E4"
     }
   ]
