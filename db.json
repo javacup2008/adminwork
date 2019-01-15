@@ -130,7 +130,7 @@
       ]
     }
   ],
-  "HotelData": [
+  "Hotels": [
     {
       "id": 1,
       "cityname": "巴黎",
