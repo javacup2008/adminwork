@@ -129,5 +129,51 @@
         }
       ]
     }
+  ],
+  "HotelData": [
+    {
+      "id": 1,
+      "cityname": "巴黎",
+      "address": "华南",
+      "hotelname": "巴黎大酒店",
+      "starlevel": 3,
+      "phone": "12345678901",
+      "fax": "12345678901",
+      "website": "www.hotel.com",
+      "position": "",
+      "wifi": "yes",
+      "hotwater": "yes",
+      "introduce": "GE",
+      "photos": [
+        {
+          "url": "mid://yruyp.hn/gnktxr"
+        },
+        {
+          "url": "cid://nhxmptues.jo/oihorke"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cityname": "里昂",
+      "address": "华南",
+      "hotelname": "巴黎大酒店",
+      "starlevel": 3,
+      "phone": "12345678901",
+      "fax": "12345678901",
+      "website": "www.hotel.com",
+      "position": "",
+      "wifi": "yes",
+      "hotwater": "yes",
+      "introduce": "GE",
+      "photos": [
+        {
+          "url": "mid://yruyp.hn/gnktxr"
+        },
+        {
+          "url": "cid://nhxmptues.jo/oihorke"
+        }
+      ]
+    }
   ]
 }
