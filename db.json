@@ -98,7 +98,19 @@
     {
       "id":1,
       "countryname": "德国",
-      "countryabbreviation": "DE"
+      "countryabbreviation": "DE",
+      "cities": [
+        {
+          "id": 1,
+          "cityname": "巴黎",
+          "cityabbreviation": "PAR"
+        },
+        {
+          "id": 2,
+          "cityname": "里昂",
+          "cityabbreviation": "LYO"
+        }
+      ]
     },
     {
       "id": 2,
