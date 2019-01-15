@@ -98,36 +98,12 @@
     {
       "id":1,
       "countryname": "德国",
-      "countryabbreviation": "DE",
-      "cities": [
-        {
-          "id":1,
-          "cityname": "法兰克福",
-          "cityabbreviation":"FRA"
-        },
-        {
-          "id": 2,
-          "cityname": "慕尼黑",
-          "cityabbreviation": "MUC"
-        }
-      ]
+      "countryabbreviation": "DE"
     },
     {
       "id": 2,
       "countryname": "法国",
-      "countryabbreviation": "FR",
-      "cities": [
-        {
-          "id": 1,
-          "cityname": "巴黎",
-          "cityabbreviation": "PAR"
-        },
-        {
-          "id": 2,
-          "cityname": "里昂",
-          "cityabbreviation": "LYO"
-        }
-      ]
+      "countryabbreviation": "FR"
     }
   ]
 }
